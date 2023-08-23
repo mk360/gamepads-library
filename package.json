@@ -1,0 +1,23 @@
+{
+  "name": "gamepad-library",
+  "version": "1.0.0",
+  "description": "A suite of Gamepads for use in browser-based applications (ex. games)",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk360/gamepads-library.git"
+  },
+  "keywords": [
+    "gamepads",
+    "library"
+  ],
+  "author": "Muhammad Kassar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mk360/gamepads-library/issues"
+  },
+  "homepage": "https://github.com/mk360/gamepads-library#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
